@@ -4,7 +4,7 @@
 
 ![tvalp](img/tvalp.png)
 
-<div align="center"><img src="https://img.shields.io/badge/Version-1.0--alpha-brightgreen"> 
+<div align="center"><img src="https://img.shields.io/badge/Version-1.0--alpha-brightgreen"> </div>
 
 ## 🌐项目简介
 
