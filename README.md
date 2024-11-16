@@ -2,7 +2,7 @@
 
 # 电视装配线生产日志数据集-TV-ALP
 
-![tvalp](README.assets/tvalp-17317516926322.png)
+![tvalp](img/tvalp.png)
 
 <div align="center"><img src="https://img.shields.io/badge/Version-1.0--alpha-brightgreen"> 
 
@@ -16,11 +16,11 @@
 
 - 电视机流水线制造流程样例图
 
-  ![电视机流水线制造流程样例图](README.assets/电视机流水线制造流程样例图-17317534025687.png)
+  ![电视机流水线制造流程样例图](img/电视机流水线制造流程样例图.png)
 
 - 作者指导书
 
-![作者指导书](README.assets/作者指导书-17317534127649.png)
+![作者指导书](img/作者指导书.png)
 
 ## 🧭实验结果
 
