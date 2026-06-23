@@ -1,6 +1,6 @@
 
 
-# 电视装配线生产日志数据集-TV-ALP (APIN / IEEE TCSS 2024)
+# 电视装配线生产日志数据集-TV-ALP (APIN 2024)
 
 ![tvalp](img/tvalp.png)
 
